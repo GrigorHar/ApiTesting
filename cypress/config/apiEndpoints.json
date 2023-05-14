@@ -1,0 +1,10 @@
+{
+    "unixTimestampConverter": {
+      "baseUrl": "https://helloacm.com/api/unix-timestamp-converter/",
+      "endpoints": {
+        "unixToDateString": "?cached&s=",
+        "dateStringToUnix": "?cached&s=",
+        "dateStringToUnixWithFormat": "?cached&f=Y/m/d%20H:i:s&s="
+      }
+    }
+  }
